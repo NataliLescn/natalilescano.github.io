@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&family=Mali:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+body {
+    background: linear-gradient(#0d92ff, #6897c4);
+    font-family: 'Mali', cursive;
+}
+
+.categorias a {
+    background-color: #d30808;
+    color: blanchedalmond;
+    text-decoration: none;
+}
+
+h2,h1 {
+    color: #ffffff;
+    font-family: 'Fredericka the Great', cursive;
+    text-shadow: -4px -1px 3px rgba(68, 93, 128, 1);
+}
+
+h3 {
+    color: #0010eb;
+    font-weight: 900;
+}
+
+.italica {
+    font-style: italic;
+    font-family: 'Kalam', cursive;
+}
+
+.carne {
+    font-weight: bold;
+}
+
+.central {
+font-weight: bold;
+}
+
+.argentina {
+    font-weight: bold;
+}
+
+.provincias {
+    font-weight: bold;
+}
+
+.mesopotamia {
+    font-weight: bold;
+}
+
+.link {
+    text-decoration: none;
+    color: #6a1515cb;
+}
